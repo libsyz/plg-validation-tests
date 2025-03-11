@@ -124,5 +124,5 @@ def analyse_prompt_accuracy(file_path, expectation):
 
 if __name__ == "__main__":
     print("Analyzing prompt accuracy...")
-    analyse_prompt_accuracy("true_positive_sample.csv", True)
+    analyse_prompt_accuracy("true_negative_sample.csv", False)
 
