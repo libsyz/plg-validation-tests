@@ -1,0 +1,50 @@
+ID,Case Number,UPN,Line Of Business,Recommendation Details,Recommendation Details Validation,Recommendation Details Comment
+28155,2503310040000583,gig_wfh_micsi@microsoftsupport.com,Business Advisor Reactive," 
+Informed customer that Copilot is integrated into the apps like Outlook, Word, Excel, Teams, and more. It helps save time, enhance productivity, and make smarter decisions.
+Draft and summarize email thread in Outlook
+Draft and edit documents faster in Word.
+Analyze data effortlessly in Excel.
+Collaborate seamlessly and boost meeting productivity in Teams.
+Automate repetitive tasks and free up time for strategic work.
+Provided helpful article",1,Relevant in customer's key areas of usage in M365
+27414,2504041420002774,gig_wfh_abelr@microsoftsupport.com,Business Advisor Reactive," 
+- Given the administrator's objective of utilizing Microsoft Teams, I recommended that the customer employ Copilot within Microsoft Teams chat and channels. This will assist in enhancing meeting productivity, providing efficient summarization, and facilitating prompt responses. 
+",1,Valid
+26653,2504031420003187,gig_wfh_hotab@microsoftsupport.com,Trials Nurturing Reactive," 
+Copilot in Outlook assists with email management by highlighting key messages, offering response suggestions, and arranging appointments according to your availability. In Teams, Copilot can assist in setting up and managing virtual meetings, providing live captions, and summarizing meeting notes. In PowerPoint, Copilot can enhance presentation creation by suggesting layouts, automating slide design, and integrating multimedia content seamlessly.",1,Valid recommendation
+27703,2504040030008181,gig_wfh_feasu@office365support.com,Business Assist," 
+ To save time I recommended summarizing email threads using copilot for Outlook",1,Copilot Outlook to summarize email thread was recommended to save time
+26036,2503280040006869,gig_wfh_maond@microsoftsupport.com,Business Assist,"Copilot recommendation details: 
+The customer expressed a desire for forecasting capabilities in asset management to enable predictive analysis. We recommend Copilot for Excel, which will enhance data analysis, visualization, and reduce human error. By leveraging Copilot's features, the customer will benefit from more efficient asset tracking, improved decision-making, and increased productivity.",1,Valid
+28789,2504060050001045,gig_wfh_egsol@microsoftsupport.com,Business Advisor Reactive," 
+I also suggested the use of copilot in teams emphasizing on how it can help by summarizing meetings, scheduling appointments and giving important key note from meetings. This way, they stay organized and save time for other important tasks.",1,Valid
+26385,2503310030004765,gig_wfh_chcor@microsoftsupport.com,Business Advisor Reactive,"Copilot recommendation details: 
+The customer aims to delete the tenant created by his father and start a new small organization. During our conversation, I recommended Copilot features in PowerPoint to create presentations from a file",1,Valid
+27892,2503310040001537,gig_wfh_sirai@microsoftsupport.com,Proactive Grace,"I recommended using Copilot in Outlook for auto-drafting emails and scheduling meetings. These features can help automate routine tasks, making communication more efficient and ensuring that meetings are organized and timely.",1,Valid
+26205,2503260030008131,gig_wfh_kameh@microsoftsupport.com,Business Assist,"Copilot recommendation details: 
+recommended Copilot in PowerPoint so that they can create presentations faster and with less effort. Copilot can suggest design improvements and summarize key points automatically. This allows them to build professional branding proposals, marketing pitches, and client presentations with ease and saves time, enhances creativity, and ensures their presentations are impactful. ",1,Valid recommendation based on the services cx provides for their customers.
+29003,2504060010000444,gig_wfh_vishe@microsoftsupport.com,Business Assist," 
+Copilot in Outlook enhances email management by streamlining message drafting, summarizing conversations, and providing reply suggestions. It also enables effortless file retrieval from SharePoint and OneDrive using natural language queries, and offers data-driven insights from emails, supporting the organization's goal of centralized file storage.
+ ",1,Valid: mentioned copilot features and mentioned how it will benefit the customer.
+27647,"2,50406E+15",gig_wfh_gaadu@office365support.com,Business Advisor Reactive," 
+I educated customer about the capabilities of Copilot and how it can help when integrated into office apps. I mentioned its functions in commonly used office apps like Outlook Teams PowerPoint etc",0,The recommendation is general. There is no BG or PLG in this case. We also cannot relate it to the customer's industry.
+27094,2503300050000222,gig_wfh_katfe@microsoftsupport.com,Business Advisor Reactive," 
+Drafting emails in Outlook",0,does not show relation to the goal
+26159,2503290030000214,gig_wfh_esata@microsoftsupport.com,Trials Nurturing Reactive,"Copilot recommendation details: 
+I shared that copilot in Teams that helps in centralize your team’s communication, share files, and collaborate in real-time through group chats, channels, and video meetings.",0,The features mentioned are partaining to Teams no Copilot feature mentioned
+28821,2504090040001682,gig_wfh_ajmis@microsoftsupport.com,Proactive Grace,"Cx was not aware of Copilot, I have explained and share the detail and insist him to start using Free version of copilot",0,"Invalid, the statement does not mention any specific product, functionalities, or features of how the product can address the customer need."
+26293,2503260040009109,gig_wfh_joqui@microsoftsupport.com,Business Advisor Reactive," 
+The customer suggested that Copilot for Outlook should include a text-to-image feature similar to ChatGPT. This enhancement would make the tool more useful for replying to emails, providing a richer and more engaging communication experience.",0,Same entry as Copilot Product insight
+28887,2503290040000431,gig_wfh_micsi@microsoftsupport.com,Business Advisor Reactive," 
+Informed customer that Copilot seamlessly integrates into Microsoft 365 apps like Outlook, Word, Excel, Teams etc. It leverages cutting-edge AI to assist with features, like summarizing email thread, drafting documents, analyzing data, automating repetitive tasks, or generating creative ideas.
+https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview
+",0,Invalid: This copilot recommendation seems to be a standard template of Ambassador; Kindly these cases with same pattern: 2504020030002767 | 2504040030001871 | 2504020040000220
+28342,2503270010002818,gig_wfh_kuman@microsoftsupport.com,Business Advisor Reactive," 
+Guided and Provided Documentation and link",0,No detailed recommendation details about copilot. No features aligning to the customer business.
+26957,2503270040000313,gig_wfh_shtal@microsoftsupport.com,Business Assist," 
+The customer's business operates in the real estate industry, Observing their need for streamlining processes and addressing numerous questions regarding email management, I identified merging emails as a key requirement. To support this, I guided the customer using Copilot AI, leveraging its capabilities to simplify email organization and improve workflow efficiency tailored to their business needs.",0,Copilot recommendation is generic and does not demonstrate a specific feature.
+26551,2504040040000792,gig_wfh_kuman@microsoftsupport.com,Business Advisor Reactive," 
+Guided and Provided Documentation and link",0,"Generic, lacks sufficient information on how specific feature can help improve cx business "
+27947,2504050050000629,gig_wfh_adeda@microsoftsupport.com,Business Advisor Reactive," 
+I recommended Microsoft 365 Copilot Chat and Bing Experience to Customer because it has the ability to drive productivity with accurate information using search feature
+",0,"Invalid: recommendation should be tailored to customer's goal, or need. "
